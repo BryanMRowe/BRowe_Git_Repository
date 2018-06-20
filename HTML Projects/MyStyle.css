@@ -1,0 +1,9 @@
+/* myStyle.css */
+body {
+    background-image:"images/NGC_2818_by_the_Hubble_Space_Telescope.jpg";
+    /*background-color: #cccccc;*/
+    /*background: radial-gradient(circle, black, white);*/
+}
+p {
+	color: blue
+}
