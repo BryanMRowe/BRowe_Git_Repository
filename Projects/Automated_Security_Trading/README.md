@@ -1,1 +1,1 @@
-My first automated security trading app. It's ugly, and private information/trading strategy has been omitted, but leaving it here to show progress. It was built using Interactive Brokers TWS (Trader Workstation) API and is written in VBA.
+My first automated security trading app. It's ugly but worked, and private information & trading strategies have been omitted, but leaving it here to show progress. It was built using Interactive Brokers TWS (Trader Workstation) API and is written in VBA.
